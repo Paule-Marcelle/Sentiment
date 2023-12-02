@@ -6,7 +6,7 @@ from logging import PlaceHolder
 import streamlit as st 
 from tensorflow.keras.models import load_model
 from keras.preprocessing.text import Tokenizer
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 import streamlit  # 👈 Add the caching decorator
 import keras_tuner as kt
 from keras.models import Sequential
