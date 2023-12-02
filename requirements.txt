@@ -9,4 +9,7 @@ pandas
 matplotlib
 protobuf==3.20.1
 langid
+<<<<<<< HEAD
 keras==2.6.0
+=======
+>>>>>>> e323753d904bf7234c7e3f4a5b44bdc622beea6a
